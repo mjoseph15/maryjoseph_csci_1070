@@ -5,7 +5,7 @@
 <p> My repo contains the title of the computer science class, which is called csci_1070, and my repo also contains an introduction of who I am.<br>My repo contains a bold text, a line break, and a list of all of the things contained in my repo.</p>
 
 <ol> 
- <il>Heading</il>>
+ <il>Heading</il>
  <li>Bold words</li>
  <li>Line break</li>
  <li>Lists</li>
