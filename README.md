@@ -6,8 +6,8 @@
 
 <ol> 
  <il>Heading</il>>
- <il>Bold words</il>
+ <li>Bold words</li>
  <li>Line break</li>
- <il>Lists</li>
+ <li>Lists</li>
 </ol>
 
